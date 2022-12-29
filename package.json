@@ -16,7 +16,7 @@
     "url": "git+https://github.com/OR13/typescript-library-starter-2023.git"
   },
   "author": "Orie Steele",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/OR13/typescript-library-starter-2023/issues"
   },
