@@ -9,7 +9,8 @@
     "build": "tsc -b",
     "test": "jest",
     "coverage": "jest --ci --coverage",
-    "lint": "eslint ./src ./test --fix"
+    "lint": "eslint ./src ./test --fix",
+    "shove": "git add -A; git commit -m ':rocket:'; git push origin main"
   },
   "repository": {
     "type": "git",
